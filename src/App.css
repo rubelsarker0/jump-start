@@ -1,0 +1,16 @@
+.backgroundBody{
+background-color: #212121;
+}
+.backgroundSecondary{
+  background-color: #171717;
+}
+.background-hover{
+  background-color: #ff0000 !important;
+}
+.text-primary{
+  color:#ececec
+}
+.button-primary{
+  background-color: #0f62fe
+  ;
+}
